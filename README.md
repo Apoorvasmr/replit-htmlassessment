@@ -1,3 +1,3 @@
 # replit-htmlassessment
 
-LIVE(https://replit-htmlassessment.apoorvasmr.repl.co)
+[LIVE](https://replit-htmlassessment.apoorvasmr.repl.co)
